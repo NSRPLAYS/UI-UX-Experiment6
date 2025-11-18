@@ -42,3 +42,6 @@ Iterate designs based on feedback.
 [UX_Experiment_Report.pdf](https://github.com/user-attachments/files/23601374/UX_Experiment_Report.pdf)
 
 ## Result:
+
+To practice solution ideation, user story creation, scenario development, flow mapping, and information architecture design to improve user experience through structured UX design activities.
+has been done and the output is verified
